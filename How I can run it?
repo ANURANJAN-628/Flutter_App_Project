@@ -1,0 +1,6 @@
+? Clone this repo
+? Run below code in terminal of project
+
+
+flutter pub get
+flutter run
