@@ -1,0 +1,12 @@
+enum ProductType {
+  burger,
+  pizza,
+  chicken,
+  chips,
+}
+
+enum LocationType {
+  hanoi,
+  danang,
+  hochiminh,
+}
